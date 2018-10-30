@@ -4,7 +4,7 @@
     "slug": "leeloo",
     "icon": "./assets/app-icon.png",
     "version": "1.2.0",
-    "sdkVersion": "23.0.0",
+    "sdkVersion": "30.0.0",
     "privacy": "public",
     "loading": {
       "icon": "assets/splash.png",
